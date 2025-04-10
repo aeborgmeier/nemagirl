@@ -1,2 +1,0 @@
-# nemagirl
-personal website
